@@ -6,6 +6,9 @@
 	path = ape
 	url = https://github.com/EmmanuelParadis/ape
 	registered = false
+[submodule "phangorn"]
+	path = phangorn
+	url = https://github.com/isbool/phangorn
 [submodule "phangornWebR"]
 	path = phangornWebR
 	url = https://github.com/isbool/phangorn-webR
