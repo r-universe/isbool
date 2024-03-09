@@ -2,6 +2,12 @@
   {
     "package": "ape",
     "url": "https://github.com/EmmanuelParadis/ape",
+    "via": ["phangorn"],
+    "from": "phangorn"
+  },
+  {
+    "package": "ape",
+    "url": "https://github.com/EmmanuelParadis/ape",
     "via": ["phangornWebR"],
     "from": "phangornWebR"
   }
