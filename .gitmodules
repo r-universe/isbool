@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/isbool/isbool.r-universe.dev
 	branch = HEAD
-[submodule "ape"]
-	path = ape
-	url = https://github.com/EmmanuelParadis/ape
-	registered = false
 [submodule "phangorn"]
 	path = phangorn
 	url = https://github.com/isbool/phangorn
